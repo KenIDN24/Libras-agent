@@ -36,3 +36,5 @@ node test-local.mjs                          # in a second shell
 ```
 
 <!-- deployment check: fresh build trigger -->
+
+<!-- redeploy trigger 2026-11-15 19:31 -->
