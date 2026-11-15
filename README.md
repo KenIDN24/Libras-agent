@@ -34,3 +34,5 @@ npm install
 AGENT_GAMES_SECRET=<hex secret> npm start   # listens on :8791
 node test-local.mjs                          # in a second shell
 ```
+
+<!-- deployment check: fresh build trigger -->
